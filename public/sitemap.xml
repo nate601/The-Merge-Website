@@ -2,14 +2,29 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://mc.nate601.me/gettingstarted/</loc>
+    <loc>http://mc.nate601.me/Lore/loreprimer/</loc>
+    <lastmod>2023-01-02T11:11:49-06:00</lastmod>
+  </url><url>
+    <loc>http://mc.nate601.me/Getting-Started/1-Welcome/</loc>
     <lastmod>2023-01-01T21:41:38-06:00</lastmod>
+  </url><url>
+    <loc>http://mc.nate601.me/Getting-Started/2-IncludedMods/</loc>
+    <lastmod>2023-01-02T17:34:32-06:00</lastmod>
+  </url><url>
+    <loc>http://mc.nate601.me/Lore/definitions/</loc>
+    <lastmod>2023-01-02T11:20:40-06:00</lastmod>
+  </url><url>
+    <loc>http://mc.nate601.me/Getting-Started/4-GetConnected/</loc>
+    <lastmod>2023-01-02T17:37:05-06:00</lastmod>
+  </url><url>
+    <loc>http://mc.nate601.me/getting-started/</loc>
+    <lastmod>2023-01-02T17:37:05-06:00</lastmod>
   </url><url>
     <loc>http://mc.nate601.me/</loc>
-    <lastmod>2023-01-01T21:41:38-06:00</lastmod>
+    <lastmod>2023-01-02T17:37:05-06:00</lastmod>
   </url><url>
-    <loc>http://mc.nate601.me/gettingstarted/welcome/</loc>
-    <lastmod>2023-01-01T21:41:38-06:00</lastmod>
+    <loc>http://mc.nate601.me/lore/</loc>
+    <lastmod>2023-01-02T11:20:40-06:00</lastmod>
   </url><url>
     <loc>http://mc.nate601.me/categories/</loc>
   </url><url>

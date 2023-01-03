@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Lore on The Merge</title>
+    <link>http://mc.nate601.me/lore/</link>
+    <description>Recent content in Lore on The Merge</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 02 Jan 2023 11:20:40 -0600</lastBuildDate><atom:link href="http://mc.nate601.me/lore/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Lore Primer</title>
+      <link>http://mc.nate601.me/Lore/loreprimer/</link>
+      <pubDate>Mon, 02 Jan 2023 11:11:49 -0600</pubDate>
+      
+      <guid>http://mc.nate601.me/Lore/loreprimer/</guid>
+      <description>In a distant corner of the universe, a mysterious event caused the worlds of magic and technology to collide, creating a new dimension where both coexisted. This dimension, known as &amp;ldquo;The Merge,&amp;rdquo; became a haven for adventurers and outcasts from across the multiverse.
+As one of the few beings capable of using both magic and technology, you have stumbled upon The Merge and have been drawn into its wild and dangerous landscape.</description>
+    </item>
+    
+    <item>
+      <title>Definitions</title>
+      <link>http://mc.nate601.me/Lore/definitions/</link>
+      <pubDate>Mon, 02 Jan 2023 11:20:40 -0600</pubDate>
+      
+      <guid>http://mc.nate601.me/Lore/definitions/</guid>
+      <description>The Merge The name of the dimension where the worlds of magic and technology have collided. The merge is home to a variety of creatures and is a haven for adventurers and outcasts from across the multiverse Dimension Hopper A being capable of traversing dimensions and crossing into different worlds. Dimension hoppers are rare and posses unique abilities that allow them to use both magic and technology Great Collision A catastrophic event that occurred in The Merge, causing the worlds of magic and technology to collide and unleashing a wave of chaos and destruction.</description>
+    </item>
+    
+  </channel>
+</rss>
