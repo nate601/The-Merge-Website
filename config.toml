@@ -1,0 +1,11 @@
+baseURL = 'http://mc.nate601.me/'
+languageCode = 'en-us'
+title = "The Merge"
+theme = 'hugo-geekdoc'
+
+pluralizeListTitles = false
+
+
+pygmentsUseClasses = true
+pygmentsCodeFences = true
+disablePathToLower = true

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>GettingStarteds on nate601&#39;s Minecraft Server</title>
+    <link>http://mc.nate601.me/gettingstarted/</link>
+    <description>Recent content in GettingStarteds on nate601&#39;s Minecraft Server</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 01 Jan 2023 21:41:38 -0600</lastBuildDate><atom:link href="http://mc.nate601.me/gettingstarted/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Welcome</title>
+      <link>http://mc.nate601.me/gettingstarted/welcome/</link>
+      <pubDate>Sun, 01 Jan 2023 21:41:38 -0600</pubDate>
+      
+      <guid>http://mc.nate601.me/gettingstarted/welcome/</guid>
+      <description>Hello and welcome to our brand new private modded Minecraft server!
+We are excited to have you join us as we embark on this journey together. This server has been created specifically for our group of friends to play on, and we hope you have a great time.
+On this server, we have a variety of mods installed to enhance gameplay and add new features to the game. Be sure to check out the list of mods on the server page to get an idea of what we have available.</description>
+    </item>
+    
+  </channel>
+</rss>
