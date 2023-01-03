@@ -2,36 +2,36 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Getting Started on The Merge</title>
-    <link>http://mc.nate601.me/getting-started/</link>
+    <link>http://merge.nate601.me/getting-started/</link>
     <description>Recent content in Getting Started on The Merge</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 02 Jan 2023 17:37:05 -0600</lastBuildDate><atom:link href="http://mc.nate601.me/getting-started/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 02 Jan 2023 17:37:05 -0600</lastBuildDate><atom:link href="http://merge.nate601.me/getting-started/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Welcome to the Merge!</title>
-      <link>http://mc.nate601.me/Getting-Started/1-Welcome/</link>
+      <link>http://merge.nate601.me/Getting-Started/1-Welcome/</link>
       <pubDate>Sun, 01 Jan 2023 21:41:38 -0600</pubDate>
       
-      <guid>http://mc.nate601.me/Getting-Started/1-Welcome/</guid>
+      <guid>http://merge.nate601.me/Getting-Started/1-Welcome/</guid>
       <description>Welcome to The Merge, a dimension where magic and technology coexist in a fragile balance. You are a dimension hopper, one of the few beings capable of using both magic and technology, who has stumbled upon this strange and dangerous world.
 In The Merge, you will encounter a variety of creatures, both friendly and hostile, as you explore the vast landscape. Remember, trust is a fragile thing in The Merge, and not everyone can be trusted.</description>
     </item>
     
     <item>
       <title>Mod List</title>
-      <link>http://mc.nate601.me/Getting-Started/2-IncludedMods/</link>
+      <link>http://merge.nate601.me/Getting-Started/2-IncludedMods/</link>
       <pubDate>Mon, 02 Jan 2023 17:34:32 -0600</pubDate>
       
-      <guid>http://mc.nate601.me/Getting-Started/2-IncludedMods/</guid>
+      <guid>http://merge.nate601.me/Getting-Started/2-IncludedMods/</guid>
       <description>[Forge] Snad Sand makes sugarcane grow faster!! Accelerated Decay Speeds up the leaf decaying process Ad Astra! &amp;ldquo;Live long and prosper, Ad Astra!&amp;rdquo; Advanced Peripherals &amp;ldquo;A Peripheral addon mod for Computercraft 1.16. You can communicate with Refined Storage, Applied Energistics2 or with the whole Minecraft world. Adds things like the Me Bridge, Rs Bridge, the Chat Box and more.&amp;rdquo; AE Additions - ExtraCells2 Fork &amp;ldquo;An Updated Extra Cells 2. Super Storage Cell, Wireless Transceiver, bigger cells(including for ae2 things), bigger cpus and more to come!</description>
     </item>
     
     <item>
       <title>Connect to the Server</title>
-      <link>http://mc.nate601.me/Getting-Started/4-GetConnected/</link>
+      <link>http://merge.nate601.me/Getting-Started/4-GetConnected/</link>
       <pubDate>Mon, 02 Jan 2023 17:37:05 -0600</pubDate>
       
-      <guid>http://mc.nate601.me/Getting-Started/4-GetConnected/</guid>
+      <guid>http://merge.nate601.me/Getting-Started/4-GetConnected/</guid>
       <description>The server connection information should be preloaded in the client, but in the event that it is not this page is provided. If your username is not on the whitelist, please let Nathan know so that you can be added!
 Primary Endpoint: nate601.me
 Secondary Endpoint: mc.nate601.me
