@@ -1,4 +1,4 @@
-baseURL = 'http://mc.nate601.me/'
+baseURL = 'http://merge.nate601.me/'
 languageCode = 'en-us'
 title = "The Merge"
 theme = 'hugo-geekdoc'
