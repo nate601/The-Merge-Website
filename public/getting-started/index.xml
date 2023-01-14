@@ -6,7 +6,7 @@
     <description>Recent content in Getting Started on The Merge</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 02 Jan 2023 17:37:05 -0600</lastBuildDate><atom:link href="http://merge.nate601.me/getting-started/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 12 Jan 2023 20:06:17 -0600</lastBuildDate><atom:link href="http://merge.nate601.me/getting-started/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Welcome to the Merge!</title>
       <link>http://merge.nate601.me/Getting-Started/1-Welcome/</link>
@@ -27,17 +27,27 @@ In The Merge, you will encounter a variety of creatures, both friendly and hosti
     </item>
     
     <item>
+      <title>Download the Pack!</title>
+      <link>http://merge.nate601.me/Getting-Started/3-DownloadThePack/</link>
+      <pubDate>Thu, 12 Jan 2023 20:06:17 -0600</pubDate>
+      
+      <guid>http://merge.nate601.me/Getting-Started/3-DownloadThePack/</guid>
+      <description>Due to rapid updates to the pack, the best way to install the pack is through the Prism Launcher! Download the prism launcher from their website for your platform, and then download the pack from our discord!
+The modpack requires that the user download specifically Java 17! No newer version of Java seems to work. Luckily, you can keep your main version of Java separate from the copy of Java 17, and simply point the Prism launcher to a copy of Java 17 for Minecraft!</description>
+    </item>
+    
+    <item>
       <title>Connect to the Server</title>
       <link>http://merge.nate601.me/Getting-Started/4-GetConnected/</link>
       <pubDate>Mon, 02 Jan 2023 17:37:05 -0600</pubDate>
       
       <guid>http://merge.nate601.me/Getting-Started/4-GetConnected/</guid>
-      <description>The server connection information should be preloaded in the client, but in the event that it is not this page is provided. If your username is not on the whitelist, please let Nathan know so that you can be added!
+      <description>The server connection information should be preloaded in the client, but in the event that it is not this page is provided. If your username is not on the white-list, please let Nathan know so that you can be added!
 Primary Endpoint: nate601.me
 Secondary Endpoint: mc.nate601.me
 Tertiary Endpoint: 192.161.174.159:25565
 The server has a DynMap instance available as well!
-Connection information will be provided soon once chunk pre-generation has begun! </description>
+Click Here!</description>
     </item>
     
   </channel>

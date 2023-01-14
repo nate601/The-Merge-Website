@@ -5,16 +5,17 @@ weight: 4
 ---
 
 
-The server connection information should be preloaded in the client, but in the event that it is not this page is provided.  If your username is not on the whitelist, please let Nathan know so that you can be added! 
+The server connection information should be preloaded in the client, but in the event that it is not this page is provided.  If your username is not on the white-list, please let Nathan know so that you can be added! 
 
-Primary Endpoint: nate601.me
+- Primary Endpoint: nate601.me
 
-Secondary Endpoint: mc.nate601.me
+- Secondary Endpoint: mc.nate601.me
 
-Tertiary Endpoint: 192.161.174.159:25565
+- Tertiary Endpoint: 192.161.174.159:25565
 
 
-{{<hint type="tip"title="New! DynMap">}}
-The server has a DynMap instance available as well!  
-Connection information will be provided soon once chunk pre-generation has begun!
+{{<hint type="tip" title="New! DynMap">}}
+The server has a DynMap instance available as well!
+
+[Click Here!](http://192.161.174.159:8123)
 {{</hint>}}
