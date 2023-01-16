@@ -28,6 +28,7 @@ N.B.: Might be slightly out of date!
     - Ars Instrumentum
     - Ars Elemental
     - Starbunclemania
+    - Hexal
 {{</expand>}}
 {{<expand "v2.0">}}
 - Update all mods to latest version
